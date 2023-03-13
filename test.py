@@ -5,4 +5,5 @@ a = a + 2
 b = b - 4
 c = c * 2
 print (a,b,c)
-print (c,b,a)
+print (b,c,a)
+print (c,a,b)
